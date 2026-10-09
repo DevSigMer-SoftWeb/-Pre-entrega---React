@@ -1,0 +1,26 @@
+[
+    {
+    "id": "1",
+    "nombre": "Teclado Mecánico RGB",
+    "precio": 85000,
+    "categoria": "perifericos",
+    "imagen": "https://via.placeholder.com/200",
+    "descripcion": "Teclado mecánico con switches red, retroiluminación RGB y diseño compacto."
+    },
+    {
+    "id": "2",
+    "nombre": "Mouse Gamer 16000 DPI",
+    "precio": 35000,
+    "categoria": "perifericos",
+    "imagen": "https://via.placeholder.com/200",
+    "descripcion": "Mouse ergonómico con sensor óptico de alta precisión y botones programables."
+    },
+    {
+    "id": "3",
+    "nombre": "Monitor 24\" 144Hz",
+    "precio": 210000,
+    "categoria": "monitores",
+    "imagen": "https://via.placeholder.com/200",
+    "descripcion": "Monitor IPS de 24 pulgadas con tasa de refresco de 144Hz y 1ms de respuesta."
+    }
+]
